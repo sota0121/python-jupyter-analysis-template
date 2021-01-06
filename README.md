@@ -14,6 +14,7 @@ Python on Jupyter 分析環境のテンプレート
 
 - [pyenvでのPython仮想環境の作り方まとめ](https://qiita.com/ysdyt/items/5008e607343b940b3480)
 - [【2020年版】とりあえず入れておくべきおすすめPythonパッケージ25選【Python】](https://karupoimou.hatenablog.com/entry/%E3%81%8A%E3%81%99%E3%81%99%E3%82%81Python%E3%83%91%E3%83%83%E3%82%B1%E3%83%BC%E3%82%B8)
+- [What’s new in 1.2.0 (December 26, 2020) | pandas](https://pandas.pydata.org/docs/whatsnew/v1.2.0.html)
 
 ## 全体の流れ
 
